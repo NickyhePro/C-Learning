@@ -1,0 +1,5 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Lists\bin\Debug\Lists.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Lists\bin\Debug\Lists.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Lists\bin\Debug\Lists.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Lists\obj\Debug\Lists.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Lists\obj\Debug\Lists.pdb

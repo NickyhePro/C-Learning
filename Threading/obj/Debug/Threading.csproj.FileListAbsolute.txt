@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Threading\bin\Debug\Threading.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Threading\bin\Debug\Threading.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Threading\bin\Debug\Threading.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Threading\obj\Debug\Threading.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Threading\obj\Debug\Threading.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache

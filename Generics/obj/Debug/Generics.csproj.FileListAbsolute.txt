@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Generics\bin\Debug\Generics.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Generics\bin\Debug\Generics.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Generics\bin\Debug\Generics.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Generics\obj\Debug\Generics.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Generics\obj\Debug\Generics.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

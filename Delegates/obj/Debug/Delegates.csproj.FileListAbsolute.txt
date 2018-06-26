@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Delegates\bin\Debug\Delegates.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Delegates\bin\Debug\Delegates.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Delegates\bin\Debug\Delegates.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Delegates\obj\Debug\Delegates.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,5 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\NullableType\bin\Debug\NullableType.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\NullableType\bin\Debug\NullableType.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\NullableType\bin\Debug\NullableType.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\NullableType\obj\Debug\NullableType.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\NullableType\obj\Debug\NullableType.pdb

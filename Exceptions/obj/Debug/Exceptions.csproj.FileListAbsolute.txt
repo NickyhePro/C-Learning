@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Exceptions\bin\Debug\Exceptions.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Exceptions\bin\Debug\Exceptions.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Exceptions\bin\Debug\Exceptions.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Exceptions\obj\Debug\Exceptions.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Exceptions\obj\Debug\Exceptions.pdb

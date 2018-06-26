@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Constructor\bin\Debug\Constructor.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Constructor\bin\Debug\Constructor.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Constructor\bin\Debug\Constructor.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Constructor\obj\Debug\Constructor.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Constructor\obj\Debug\Constructor.pdb

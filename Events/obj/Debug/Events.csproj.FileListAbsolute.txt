@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Events\bin\Debug\Events.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Events\bin\Debug\Events.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Events\bin\Debug\Events.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Events\obj\Debug\Events.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Events\obj\Debug\Events.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache

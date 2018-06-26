@@ -1,0 +1,5 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Enumerable\bin\Debug\Enumerable.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Enumerable\bin\Debug\Enumerable.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Enumerable\bin\Debug\Enumerable.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Enumerable\obj\Debug\Enumerable.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\Enumerable\obj\Debug\Enumerable.pdb

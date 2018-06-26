@@ -1,0 +1,6 @@
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\SoftwareEngineering\bin\Debug\SoftwareEngineering.exe.config
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\SoftwareEngineering\bin\Debug\SoftwareEngineering.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\SoftwareEngineering\bin\Debug\SoftwareEngineering.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\SoftwareEngineering\obj\Debug\SoftwareEngineering.exe
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\SoftwareEngineering\obj\Debug\SoftwareEngineering.pdb
+c:\users\nick he\documents\visual studio 2015\Projects\CSLearining\SoftwareEngineering\obj\Debug\SoftwareEngineering.csprojResolveAssemblyReference.cache
